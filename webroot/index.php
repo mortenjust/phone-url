@@ -20,9 +20,7 @@ $callme = new CallMe($options);
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-	<h1>bobslaede</h1>
-	<h2>Jeppe Dyrby</h2>
+	<h1>Jeppe Dyrby</h1>
 	<div id="choices">
 		<ul>
 <?php
