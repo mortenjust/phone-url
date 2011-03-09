@@ -4,7 +4,7 @@ ini_set('error_reporting', E_ALL);
 ini_set('display_errors',true);
 
 define('BASEDIR', 	realpath(dirname(__FILE__).'/../'));
-define('LIBDIR',  	BASEDIR . '/libs');
+define('LIBDIR',  	BASEDIR . '/lib');
 
 require LIBDIR.'/Mobile_Detect.php';
 require LIBDIR.'/CallMe.php';
